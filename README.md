@@ -1,0 +1,1 @@
+This is a practice site where the task is to copy an existing site.
