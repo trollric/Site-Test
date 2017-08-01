@@ -17,3 +17,16 @@ body {
 .header h1 {
   font-family: fantasy, serif, sans-serif;
 }
+
+#bottom-banner {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+}
+
+#bottom-banner img {
+  width: auto;
+  height: auto;
+  max-width: 125px;
+  max-height: 125px;
+}
